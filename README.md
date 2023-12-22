@@ -5,8 +5,8 @@
 
 <h3 align="left">My contacts!</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jaideep-balde" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrofnseca" height="30" width="40" />
+  <a href="[[https://linkedin.com/in/jaideep-balde](https://www.linkedin.com/in/jaideep-balde-220a43204/)](https://www.linkedin.com/in/jaideep-balde-220a43204/)" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjainz/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrofnseca" height="30" width="40" />
   </a>
   <a href="https://instagram.com/pedro_fnseca" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedro_fnseca" height="30" width="40" />
