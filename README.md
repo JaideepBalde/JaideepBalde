@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Jaideep Balde</h1>
-<h3 align="center">Proud to be Indian. Jai Shree Ram! 🚀</h3>
+<h3 align="center">Proud Web and Software Devloper 🚀</h3>
 
 ---
 
