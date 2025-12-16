@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Jaideep Balde</h1>
+<h1 align="center">Hi 👋, my name is Jaydeep Balde</h1>
 <h3 align="center">Proud Web and Software Developer 🚀</h3>
 
 ---
