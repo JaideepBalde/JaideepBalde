@@ -1,62 +1,105 @@
-<h1 align="center">Hi 👋, my name is Jaydeep Balde</h1>
-<h3 align="center">Proud Web and Software Developer 🚀</h3>
+<h1 align="center">Jaideep Balde</h1>
+<h3 align="center">Web & Software Developer</h3>
+
+<p align="center">
+  I build reliable, scalable software systems with a strong focus on backend engineering,
+  web technologies, and practical problem-solving.
+</p>
 
 ---
 
-<h3 align="left">My Contacts!</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jaideep-balde-220a43204/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjainz/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jaideep Balde" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/mr_havok_2020/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjainz/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep Balde" height="30" width="40" />
-  </a>
-  <a href="https://github.com/JaideepBalde" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Jaideep Balde" height="30" width="40" />
-  </a>
+<h3>Professional Summary</h3>
+<p>
+B.Tech graduate in Electronics & Telecommunication Engineering with hands-on experience in
+full-stack web development, backend APIs, databases, and applied research.
+Strong foundation in JavaScript, Node.js, system fundamentals, and problem-solving.
+Experienced in academic research, hackathon-based learning, and real-world project development.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/raspberry-pi.png" alt="raspberry-pi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<h3>Contact & Profiles</h3>
+<p>
+  <a href="https://www.linkedin.com/in/jaideep-balde-220a43204/" target="_blank">
+    LinkedIn
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/JaideepBalde" target="_blank">
+    GitHub
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  &nbsp;|&nbsp;
+  <a href="https://www.instagram.com/mr_havok_2020/" target="_blank">
+    Instagram
   </a>
 </p>
 
 ---
 
-<p align="center">
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaideepBalde&show_icons=true&locale=en&layout=compact&theme=dark" alt="JaideepBalde" />
+<h3>Technical Skills</h3>
 
-<img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepBalde&theme=dark" alt="JaideepBalde" />
+<strong>Programming Languages</strong>
+<ul>
+  <li>JavaScript (ES6+)</li>
+  <li>TypeScript</li>
+  <li>Python</li>
+  <li>C</li>
+  <li>C++</li>
+</ul>
+
+<strong>Backend & Web Technologies</strong>
+<ul>
+  <li>Node.js, Express.js</li>
+  <li>RESTful APIs, Authentication, MVC Architecture</li>
+  <li>MongoDB, MySQL, PostgreSQL</li>
+</ul>
+
+<strong>Frontend Technologies</strong>
+<ul>
+  <li>HTML5, CSS3</li>
+  <li>React.js</li>
+</ul>
+
+<strong>AI / ML & Research</strong>
+<ul>
+  <li>TensorFlow, Keras</li>
+  <li>Applied Machine Learning Models</li>
+</ul>
+
+<strong>Embedded & Hardware</strong>
+<ul>
+  <li>Arduino</li>
+  <li>Raspberry Pi</li>
+  <li>Android Platform Basics</li>
+</ul>
+
+<strong>Developer Tools</strong>
+<ul>
+  <li>Git & GitHub</li>
+  <li>VS Code</li>
+  <li>Linux (basic)</li>
+</ul>
+
+---
+
+<h3>GitHub Statistics</h3>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaideepBalde&layout=compact&theme=dark" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepBalde&theme=dark" />
+</p>
+
+---
+
+<h3>Current Focus</h3>
+<ul>
+  <li>Backend Engineering (Node.js, APIs, Databases)</li>
+  <li>Building production-ready full-stack projects</li>
+  <li>System design and software fundamentals</li>
+  <li>Interview preparation for software and SRE roles</li>
+</ul>
+
+---
+
+<p align="center">
+  <em>Open to backend, full-stack, and software engineering opportunities.</em>
 </p>
