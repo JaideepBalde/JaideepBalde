@@ -1,4 +1,4 @@
-<h1 align="center">Jaideep Balde</h1>
+<h1 align="center">Jaydeep Balde</h1>
 <h3 align="center">Web & Software Developer</h3>
 
 <p align="center">
